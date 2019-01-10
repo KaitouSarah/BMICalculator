@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="header_text">BMI Kalkulator</string>
+    <string name="enter_weight">Oppgi vekt</string>
+    <string name="enter_height">Oppgi høyde</string>
+    <string name="calculate_bmi">Beregn BMI</string>
+</resources>
