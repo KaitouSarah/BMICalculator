@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">BMICalculator</string>
+    <string name="app_name">BMI</string>
     <string name="header_text">BMI Kalkulator</string>
     <string name="enter_weight">Oppgi vekt</string>
     <string name="enter_height">Oppgi høyde</string>
     <string name="calculate_bmi">Beregn BMI</string>
+    <string name="string_underweight">Undervektig</string>
+    <string name="string_healthy">Normalvektig</string>
+    <string name="string_overweight">Overvektig</string>
+    <string name="string_obese">Farlig overvektig</string>
 </resources>
